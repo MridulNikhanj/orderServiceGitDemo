@@ -109,6 +109,8 @@ public class RabbitMQConfig {
                 .with(DLQ_ROUTING_KEY);
     }
 
+    // git demo
+
 
 
 
